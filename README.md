@@ -1,2 +1,2 @@
-# hackerrank-solutions# Test commit with correct email
+# hackerrank-solutions
 author: Prajakta
