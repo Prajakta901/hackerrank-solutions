@@ -1,2 +1,3 @@
 # hackerrank-solutions
-author: Prajakta
+author: Prajakta sambare
+
